@@ -1,0 +1,131 @@
+D:/Intel/Trabalho1/tb_projeto3.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/tb_projeto3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_timer
+-- Compiling architecture sim of tb_timer
+
+} {} {}} D:/Intel/Trabalho1/package.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Intel\Trabalho1\package.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package my_package
+-- Compiling package body my_package
+-- Loading package my_package
+
+} {} {}} D:/Intel/Trabalho1/tb_projeto4.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/tb_projeto4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_projeto4
+-- Compiling architecture sim of tb_projeto4
+
+} {} {}} D:/Intel/Trabalho1/projeto2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/projeto2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package parametros
+-- Compiling entity projeto2
+-- Compiling architecture basic of projeto2
+
+} {} {}} D:/Intel/Trabalho1/tb_projeto5.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Intel\Trabalho1\tb_projeto5.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_projeto5
+-- Compiling architecture sim of tb_projeto5
+
+} {} {}} D:/Intel/Trabalho1/parametros.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/parametros.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package parametros
+-- Compiling package body parametros
+-- Loading package parametros
+
+} {} {}} D:/Intel/Trabalho1/trabalho1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/trabalho1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity trabalho1
+-- Compiling architecture calc of trabalho1
+
+} {} {}} D:/Intel/Trabalho1/projeto3.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/projeto3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dut_timer
+-- Compiling architecture basic of dut_timer
+
+} {} {}} D:/Intel/Trabalho1/projeto4.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/projeto4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package my_package
+-- Compiling entity maquina
+-- Compiling architecture basic of maquina
+** Error: D:/Intel/Trabalho1/projeto4.vhd(61): (vcom-1136) Unknown identifier "incrementa".
+** Error: D:/Intel/Trabalho1/projeto4.vhd(65): (vcom-1136) Unknown identifier "incrementa".
+** Error: D:/Intel/Trabalho1/projeto4.vhd(69): (vcom-1136) Unknown identifier "incrementa".
+** Error: D:/Intel/Trabalho1/projeto4.vhd(73): (vcom-1136) Unknown identifier "incrementa".
+** Error: D:/Intel/Trabalho1/projeto4.vhd(77): (vcom-1136) Unknown identifier "incrementa".
+** Note: D:/Intel/Trabalho1/projeto4.vhd(189): VHDL Compiler exiting
+
+} {10.0 15.0} {}} D:/Intel/Trabalho1/projeto5.vhd {2 {vcom -work work -2002 -explicit -stats=none {D:\Intel\Trabalho1\projeto5.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package my_package
+-- Compiling entity jogodavelha
+-- Compiling architecture basic of jogodavelha
+** Warning: D:\Intel\Trabalho1\projeto5.vhd(38): (vcom-1013) Initial value of "jogador" depends on value of signal "comeco".
+
+} {} {}} D:/Intel/Trabalho1/tb_projeto5clock.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Intel\Trabalho1\tb_projeto5clock.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_projeto5clock
+-- Compiling architecture sim of tb_projeto5clock
+
+} {} {}} D:/Intel/Trabalho1/tb_trabalho1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/tb_trabalho1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_trabalho1
+-- Compiling architecture sim of tb_trabalho1
+
+} {} {}} D:/Intel/Trabalho1/tb_projeto2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Intel/Trabalho1/tb_projeto2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package parametros
+-- Compiling entity tb_projeto2
+-- Compiling architecture sim of tb_projeto2
+
+} {} {}}

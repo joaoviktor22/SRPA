@@ -1,0 +1,689 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Intel
+Edut_timer
+Z0 w1633456752
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1678
+Z4 dD:/Intel/Trabalho1
+Z5 8D:/Intel/Trabalho1/projeto3.vhd
+Z6 FD:/Intel/Trabalho1/projeto3.vhd
+l0
+L7 1
+Vin1GfM@RzC9?@_^T<@_j63
+!s100 ]I[G[h:YjCzE]M2;5iQMD0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1635651432
+!i10b 1
+Z9 !s108 1635651431.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/projeto3.vhd|
+Z11 !s107 D:/Intel/Trabalho1/projeto3.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+DEx4 work 9 dut_timer 0 22 in1GfM@RzC9?@_^T<@_j63
+!i122 1678
+l26
+L17 59
+V^<7>lKhg9FCTV6?Zl422_3
+!s100 <Y4aiOoG69Q93C[Qd1]Jk3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ejogodavelha
+Z14 w1635639004
+Z15 DPx4 work 10 my_package 0 22 ebldFhXeW5D3VH6^`HVW@2
+R1
+R2
+R3
+!i122 1682
+R4
+Z16 8D:\Intel\Trabalho1\projeto5.vhd
+Z17 FD:\Intel\Trabalho1\projeto5.vhd
+l0
+L6 1
+V8c6LAgPmY^H0aN`lISA<K2
+!s100 gLZ=@Vn>NmehJFD5lWUZ00
+R7
+32
+Z18 !s110 1635651434
+!i10b 1
+Z19 !s108 1635651433.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Intel\Trabalho1\projeto5.vhd|
+Z21 !s107 D:\Intel\Trabalho1\projeto5.vhd|
+!i113 1
+R12
+R13
+Abasic
+R15
+R1
+R2
+R3
+DEx4 work 11 jogodavelha 0 22 8c6LAgPmY^H0aN`lISA<K2
+!i122 1682
+l32
+L20 348
+Vf@GT:8o`G;JegA7hL35UQ3
+!s100 Ni_=ENLW0CMi^nCF3A^QP0
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Emaquina
+Z22 w1633972362
+R15
+R1
+R2
+R3
+!i122 1680
+R4
+8D:/Intel/Trabalho1/projeto4.vhd
+FD:/Intel/Trabalho1/projeto4.vhd
+l0
+L6 1
+V2FEXDA=l[mAZbNzMUCC5]0
+!s100 S:E2g@7MbEX]04_[IRHlm1
+R7
+32
+Z23 !s110 1635651433
+!i10b 1
+Z24 !s108 1635651432.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/projeto4.vhd|
+!s107 D:/Intel/Trabalho1/projeto4.vhd|
+!i113 1
+R12
+R13
+Abasic
+DPx4 work 10 my_package 0 22 3:GkDKafCXH@oKLP@FHEH3
+R1
+R2
+R3
+DEx4 work 7 maquina 0 22 2FEXDA=l[mAZbNzMUCC5]0
+!i122 660
+l30
+L18 172
+V0AYl<khY@ZCW:MI]Hgz9@1
+!s100 Q54`m;S_SLHGQ]6dh0UJ=3
+R7
+32
+!s110 1633973118
+!i10b 1
+!s108 1633973117.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Intel\Trabalho1\projeto4.vhd|
+!s107 D:\Intel\Trabalho1\projeto4.vhd|
+!i113 1
+R12
+R13
+FD:\Intel\Trabalho1\projeto4.vhd
+8D:\Intel\Trabalho1\projeto4.vhd
+Pmy_package
+R1
+R2
+R3
+!i122 1679
+Z25 w1635639020
+R4
+Z26 8D:\Intel\Trabalho1\package.vhd
+Z27 FD:\Intel\Trabalho1\package.vhd
+l0
+L5 1
+VebldFhXeW5D3VH6^`HVW@2
+!s100 i7PgZ0]i9??L7?_^<0E<F1
+R7
+32
+b1
+R8
+!i10b 1
+R24
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Intel\Trabalho1\package.vhd|
+Z29 !s107 D:\Intel\Trabalho1\package.vhd|
+!i113 1
+R12
+R13
+Bbody
+R15
+R1
+R2
+R3
+!i122 1679
+l0
+Z30 L12 1
+V^YKCz03iLCG6FnP633ImO0
+!s100 kfB>zbFzgo]d2][Q>XfEi1
+R7
+32
+R8
+!i10b 1
+R24
+R28
+R29
+!i113 1
+R12
+R13
+Pparametros
+R1
+R2
+R3
+!i122 1676
+Z31 w1633118415
+R4
+Z32 8D:/Intel/Trabalho1/parametros.vhd
+Z33 FD:/Intel/Trabalho1/parametros.vhd
+l0
+L5 1
+VPkJ5R6]WDRKPKOh^6LdMg2
+!s100 X2JHFfAjlaVa<95Wa?]321
+R7
+32
+Z34 !s110 1635651430
+!i10b 1
+Z35 !s108 1635651430.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/parametros.vhd|
+Z37 !s107 D:/Intel/Trabalho1/parametros.vhd|
+!i113 1
+R12
+R13
+Bbody
+Z38 DPx4 work 10 parametros 0 22 PkJ5R6]WDRKPKOh^6LdMg2
+R1
+R2
+R3
+!i122 1676
+l0
+R30
+VYA=PS3Y6?IRi[G640NSB<2
+!s100 Qe6Vaz167d]omILk??fJK2
+R7
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R12
+R13
+Eprojeto2
+Z39 w1633118275
+R38
+R1
+R2
+R3
+!i122 1675
+R4
+Z40 8D:/Intel/Trabalho1/projeto2.vhd
+Z41 FD:/Intel/Trabalho1/projeto2.vhd
+l0
+L7 1
+V6mgNkW3]7W1G70ccH`fNc1
+!s100 J:<AP>GZL5J6F:ebkM;6Q0
+R7
+32
+R34
+!i10b 1
+Z42 !s108 1635651429.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/projeto2.vhd|
+Z44 !s107 D:/Intel/Trabalho1/projeto2.vhd|
+!i113 1
+R12
+R13
+Abasic
+R38
+R1
+R2
+R3
+DEx4 work 8 projeto2 0 22 6mgNkW3]7W1G70ccH`fNc1
+!i122 1675
+l29
+L19 28
+V6X`VmR3D`5h<nU8o4cc]e3
+!s100 dbURQ__F^@?o:h5VJ6]d30
+R7
+32
+R34
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R12
+R13
+Etb_projeto2
+Z45 w1633118290
+R38
+R1
+R2
+R3
+!i122 1674
+R4
+Z46 8D:/Intel/Trabalho1/tb_projeto2.vhd
+Z47 FD:/Intel/Trabalho1/tb_projeto2.vhd
+l0
+L7 1
+VFdlEd=T;=86oWMaZ_?3TP1
+!s100 V1JAcIU<2ZZfUACcRkWfX2
+R7
+32
+Z48 !s110 1635651429
+!i10b 1
+R42
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/tb_projeto2.vhd|
+Z50 !s107 D:/Intel/Trabalho1/tb_projeto2.vhd|
+!i113 1
+R12
+R13
+Asim
+R38
+R1
+R2
+R3
+DEx4 work 11 tb_projeto2 0 22 FdlEd=T;=86oWMaZ_?3TP1
+!i122 1674
+l31
+L14 49
+Vkg6ck:C]Jn0:G<PHLd_gK3
+!s100 3W<TbhBMg][bhSH>6^:I93
+R7
+32
+R48
+!i10b 1
+R42
+R49
+R50
+!i113 1
+R12
+R13
+Etb_projeto4
+Z51 w1633973113
+R1
+R2
+R3
+!i122 1681
+R4
+Z52 8D:/Intel/Trabalho1/tb_projeto4.vhd
+Z53 FD:/Intel/Trabalho1/tb_projeto4.vhd
+l0
+L5 1
+VZTUSb]I6Th<k:>ZJL3FUA1
+!s100 @8V?T0_6_PA`I5fZ_AjQE3
+R7
+32
+R23
+!i10b 1
+R19
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/tb_projeto4.vhd|
+Z55 !s107 D:/Intel/Trabalho1/tb_projeto4.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 11 tb_projeto4 0 22 ZTUSb]I6Th<k:>ZJL3FUA1
+!i122 1681
+l30
+L9 166
+VcVTj`Bei@S`Pehn`4lm6z3
+!s100 N51nD775:TaZMWW6;VH7[1
+R7
+32
+R23
+!i10b 1
+R19
+R54
+R55
+!i113 1
+R12
+R13
+Etb_projeto5
+Z56 w1635364814
+R1
+R2
+R3
+!i122 1683
+R4
+Z57 8D:\Intel\Trabalho1\tb_projeto5.vhd
+Z58 FD:\Intel\Trabalho1\tb_projeto5.vhd
+l0
+L5 1
+VVjzXTBF3C:<Smi[Y95EbN2
+!s100 EiPzhWUUK>Q8_m3I5UHSW3
+R7
+32
+R18
+!i10b 1
+Z59 !s108 1635651434.000000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Intel\Trabalho1\tb_projeto5.vhd|
+Z61 !s107 D:\Intel\Trabalho1\tb_projeto5.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 11 tb_projeto5 0 22 VjzXTBF3C:<Smi[Y95EbN2
+!i122 1683
+l34
+L9 134
+VFL4Ef2Y?@D4=L0GOz`BHf1
+!s100 Ezz4[n^nb@d[?Re<=i_Ua2
+R7
+32
+R18
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R12
+R13
+Etb_projeto5clock
+Z62 w1635651427
+R1
+R2
+R3
+!i122 1684
+R4
+Z63 8D:\Intel\Trabalho1\tb_projeto5clock.vhd
+Z64 FD:\Intel\Trabalho1\tb_projeto5clock.vhd
+l0
+L5 1
+Vfa34LKS]Q6?c1=8JN3ET91
+!s100 QRGSKUQdGejVhn]ojf5aF0
+R7
+32
+Z65 !s110 1635651435
+!i10b 1
+Z66 !s108 1635651435.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Intel\Trabalho1\tb_projeto5clock.vhd|
+!s107 D:\Intel\Trabalho1\tb_projeto5clock.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 16 tb_projeto5clock 0 22 fa34LKS]Q6?c1=8JN3ET91
+!i122 1684
+l34
+L9 48
+VV?;LWU8nblYJ_K]iT3c0F3
+!s100 bPW2gE4UEWe9[6j:N>R811
+R7
+32
+R65
+!i10b 1
+R66
+R67
+Z68 !s107 D:\Intel\Trabalho1\tb_projeto5clock.vhd|
+!i113 1
+R12
+R13
+Etb_timer
+Z69 w1633456624
+R1
+R2
+R3
+!i122 1677
+R4
+Z70 8D:/Intel/Trabalho1/tb_projeto3.vhd
+Z71 FD:/Intel/Trabalho1/tb_projeto3.vhd
+l0
+L5 1
+VaiZ6]<iYBf>Iao^=527U@2
+!s100 z:=1?mB[jg4CWfTYicl2f1
+R7
+32
+Z72 !s110 1635651431
+!i10b 1
+R9
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/tb_projeto3.vhd|
+Z74 !s107 D:/Intel/Trabalho1/tb_projeto3.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 8 tb_timer 0 22 aiZ6]<iYBf>Iao^=527U@2
+!i122 1677
+l26
+L9 80
+VZBVG<hi4:lko4EO`Fa]:[0
+!s100 Hm:oIF41T]SzRRSI^T[`P2
+R7
+32
+R72
+!i10b 1
+R9
+R73
+R74
+!i113 1
+R12
+R13
+Etb_trabalho1
+Z75 w1632754369
+R1
+R2
+R3
+!i122 1673
+R4
+Z76 8D:/Intel/Trabalho1/tb_trabalho1.vhd
+Z77 FD:/Intel/Trabalho1/tb_trabalho1.vhd
+l0
+L5 1
+VeFSOkLO=H1>lH2So:@<:T3
+!s100 nHd[0J8@_gGe7VBE6m6E83
+R7
+32
+R48
+!i10b 1
+Z78 !s108 1635651428.000000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/tb_trabalho1.vhd|
+Z80 !s107 D:/Intel/Trabalho1/tb_trabalho1.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 12 tb_trabalho1 0 22 eFSOkLO=H1>lH2So:@<:T3
+!i122 1673
+l31
+Z81 L11 54
+Vi1zb[3Z]>W;j]>=Xn9aKb3
+!s100 W<T]6Me9IM[`OmO3kNIJT0
+R7
+32
+R48
+!i10b 1
+R78
+R79
+R80
+!i113 1
+R12
+R13
+Etb_ula
+w1632753665
+R1
+R2
+R3
+!i122 18
+R4
+R76
+R77
+l0
+L5 1
+Vo8NEghocSFmnW6b1kCK?j0
+!s100 =zKIi6?dGbL9ic21Agl1<0
+R7
+32
+!s110 1632753668
+!i10b 1
+!s108 1632753668.000000
+R79
+R80
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+Z82 DEx4 work 6 tb_ula 0 22 o8NEghocSFmnW6b1kCK?j0
+!i122 16
+l31
+R81
+V15SD<Cl@a4GbkU_SW<i3]1
+!s100 aHdk7HBO<9N^]W^zC4b>h1
+R7
+32
+!s110 1632753573
+!i10b 1
+!s108 1632753573.000000
+R79
+R80
+!i113 1
+R12
+R13
+w1632753571
+Atb_calc
+R1
+R2
+R3
+R82
+!i122 14
+l31
+R81
+VemF]Jn:egPa;;C_DTF;HW1
+!s100 ezm9[dM0F>f:MKT14ANVR2
+R7
+32
+!s110 1632753210
+!i10b 1
+!s108 1632753210.000000
+R79
+R80
+!i113 1
+R12
+R13
+w1632753208
+Etrabalho1
+Z83 w1632754349
+R1
+R2
+R3
+!i122 1672
+R4
+Z84 8D:/Intel/Trabalho1/trabalho1.vhd
+Z85 FD:/Intel/Trabalho1/trabalho1.vhd
+l0
+L5 1
+V6lRBg_YaV2HnF3I8TR8_90
+!s100 =P=7ei<2?gzR>;JU_<jXZ2
+R7
+32
+Z86 !s110 1635651428
+!i10b 1
+R78
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Intel/Trabalho1/trabalho1.vhd|
+Z88 !s107 D:/Intel/Trabalho1/trabalho1.vhd|
+!i113 1
+R12
+R13
+Acalc
+R1
+R2
+R3
+DEx4 work 9 trabalho1 0 22 6lRBg_YaV2HnF3I8TR8_90
+!i122 1672
+l24
+Z89 L18 32
+VD<YWgV33]a`oa4W5=T1Si0
+!s100 JzDCJfRnKc4FlIKlEbMFl2
+R7
+32
+R86
+!i10b 1
+R78
+R87
+R88
+!i113 1
+R12
+R13
+Eula
+Z90 w1632752997
+R1
+R2
+R3
+!i122 19
+R4
+R84
+R85
+l0
+L5 1
+V>LJYdn<GGc[QGkT==<>Nk3
+!s100 `z>Ii[N1]`ULJR_;CbH[J1
+R7
+32
+Z91 !s110 1632753777
+!i10b 1
+Z92 !s108 1632753777.000000
+R87
+R88
+!i113 1
+R12
+R13
+Acalc
+R1
+R2
+R3
+DEx4 work 3 ula 0 22 >LJYdn<GGc[QGkT==<>Nk3
+!i122 19
+l24
+R89
+VhMca3lURTg2AoQ4777URn1
+!s100 6ihG>fKYSzfMi6=B^kmnm3
+R7
+32
+R91
+!i10b 1
+R92
+R87
+R88
+!i113 1
+R12
+R13
